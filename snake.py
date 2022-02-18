@@ -1,7 +1,7 @@
 from turtle import Turtle
 snake_position = [(0,0),(-20,0),(-40,0)]
 MOVE_DISTANCE = 20
-UP = 90v
+UP = 90
 DOWN = 270
 LEFT = 180
 RIGHT = 0
